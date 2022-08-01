@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": "20",
+      "email": "johndoe@gmail.com",
+      "password": "johndoe123"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": "16",
+      "email": "janesmith@gmail.com",
+      "password": "janesmith123"
+    },
+    {
+      "id": 3,
+      "name": "Alli Desh",
+      "age": "40",
+      "email": "Allidesh@gmail.com",
+      "password": "allidesh123"
+    },
+    {
+      "name": "Alex Dan",
+      "age": "32",
+      "email": "alexdan@gmail.com",
+      "password": "alexdan123",
+      "id": 4
+    }
+  ]
+}
